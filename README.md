@@ -25,13 +25,13 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./design/desktop-design-screenshot.png)
-![Mobile](./design/desktop-design-screenshot.png)
+![Mobile](./design/mobile-design-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution link](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+- Live Site URL: [Live Site link](https://bennatbjoern.github.io/product-preview-card-component)
 
 ## My process
 
@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BennatBjoern)
-- Twitter - [@yourusername](https://twitter.com/bjoerncodes)
+- Frontend Mentor - [@bjoernbennat](https://www.frontendmentor.io/profile/BennatBjoern)
+- Twitter - [@bjoernbennat](https://twitter.com/bjoerncodes)
