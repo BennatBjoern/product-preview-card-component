@@ -69,5 +69,38 @@
 
 <br>
 
-- Frontend Mentor - [@bennatbjoern](https://www.frontendmentor.io/profile/BennatBjoern)
-- Twitter - [@bjoernbennat](https://twitter.com/bjoerncodes)
+## **Tools Used**
+
+![Google](https://img.shields.io/badge/google-DA4437?style=for-the-badge&logo=google&logoColor=white) &nbsp; ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## **Acknowledgment**
+
+- Challenge was provided by [Frontend Mentor](https://www.frontendmentor.io)
+
+<br>
+
+## **Let's Connect 👋**
+
+<div align=center>
+
+  <a href="https://www.xing.com/profile/Bjoern_Bennat/cv" >
+    <img alt="Static Badge" src="https://img.shields.io/badge/XING%20-%20?style=for-the-badge&logo=XING&logoColor=white&color=green" alt="Xing Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/björn-bennat-38620719a" >
+    <img src="https://img.shields.io/badge/LINKEDIN%20-%20?style=for-the-badge&logo=LINKEDIN&logoColor=white&color=blue" alt="Linkedin Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.frontendmentor.io/profile/bennatbjoern" >
+    <img src="https://img.shields.io/badge/FRONTEND--MENTOR%20-%20?style=for-the-badge&logo=FRONTENDMENTOR&logoColor=black&color=white" alt="Frontend-Mentor Profile">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.github.com/bennatbjoern/" >
+    <img src="https://img.shields.io/badge/GITHUB%20-%20?style=for-the-badge&logo=GITHUB&logoColor=white&color=black" alt="Github Profile">
+  </a>
+
+</div>
+
+<br>
