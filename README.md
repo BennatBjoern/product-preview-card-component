@@ -56,10 +56,15 @@
 
 ## The Challenge
 
+<<<<<<< HEAD
 - The challenge is to build out this Product Preview Card Component and get it looking as close to the design as possible.
 - Users should be able to:
   - View the optimal layout for the site depending on their device's screen size
   - See hover states for all interactive elements on the page
+=======
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+- Live Site URL: [Github pages](https://bennatbjoern.github.io/product-preview-card-component)
+>>>>>>> 5fb2e5487435933ee2ba90dd610970f07f75b0a7
 
 <br>
 
@@ -69,6 +74,7 @@
 
 <br>
 
+<<<<<<< HEAD
 ## **Tools Used**
 
 ![Google](https://img.shields.io/badge/google-DA4437?style=for-the-badge&logo=google&logoColor=white) &nbsp; ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -104,3 +110,7 @@
 </div>
 
 <br>
+=======
+- Frontend Mentor - [@bennatbjoern](https://www.frontendmentor.io/profile/BennatBjoern)
+- Twitter - [@bjoernbennat](https://twitter.com/bjoerncodes)
+>>>>>>> 5fb2e5487435933ee2ba90dd610970f07f75b0a7
