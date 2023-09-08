@@ -64,8 +64,7 @@
 
 ## **Built With**
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%20?style=for-the-badge&logo=HTML5&logoColor=white&color=orange) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+![HTML5](https://img.shields.io/badge/HTML5%20-%20?style=for-the-badge&logo=HTML5&logoColor=white&color=orange) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 
 ## **Tools Used**
